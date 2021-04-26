@@ -1,5 +1,7 @@
 {
   "name": "ionicNonCapacitor",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
